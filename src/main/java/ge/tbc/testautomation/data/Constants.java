@@ -18,4 +18,17 @@ public class Constants {
     public static final String IPSUM_VALUE ="Apeirian9";
     public static final String LOREM ="Lorem";
 
+    public static final String SELECTOR_TEXT = "Github";
+    public static final String NATIVE_SELECTOR_TEXT ="Mega 123 Medium screen";
+
+    public static final String FIRST_NAME = "Hikaru";
+    public static final String LAST_NAME = "Khara";
+    public static final String ADDRESS1 = "place";
+    public static final String ADDRESS2 = "place2";
+    public static final String CITY = "Kutaisi";
+    public static final String CONTACT1 = "44444444";
+    public static final String CONTACT2 = "448448";
+    public static final String ACCESS_TEXT ="ACCESS GRANTED";
+    public static final String START_BUTTON_STATUS="Reset";
+
 }
