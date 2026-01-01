@@ -8,4 +8,14 @@ public class Constants {
     public static final String ELEMENTAL_SELENIUM_LINK = "http://elementalselenium.com/";
     public static final String SERVICES_URL = "https://ultimateqa.com/consulting/";
     public static final String AUTOMATION_URL = "https://ultimateqa.com/automation";
+
+
+    public static final String FILTER_LETTER = "o";
+    public static final String HREF_CONTAINS ="animate";
+    public static final String BUTTON_CLASS ="added-manually";
+    public static final String ONCLICK_STATUS ="deleteElement()";
+    public static final String IPSUM ="Ipsum";
+    public static final String IPSUM_VALUE ="Apeirian9";
+    public static final String LOREM ="Lorem";
+
 }
