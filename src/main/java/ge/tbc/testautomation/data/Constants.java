@@ -31,4 +31,12 @@ public class Constants {
     public static final String ACCESS_TEXT ="ACCESS GRANTED";
     public static final String START_BUTTON_STATUS="Reset";
 
+    public static final String ANIME_PLANET_URL ="https://www.anime-planet.com/anime/watch-online/";
+    public static final String WEBDRIVE_UNI_TO_DO_URL="http://webdriveruniversity.com/To-Do-List/index.html";
+    public static final String WEBDRIVE_UNI_SCROLLING_URL="http://webdriveruniversity.com/Scrolling/index.html";
+    public static final String ENTRIES_TXT="Entries";
+    public static final String TECHLISTIC_URL ="https://www.techlistic.com/2017/02/automate-demo-web-table-with-selenium.html";
+    public static final String ACTIVE_TEMPLATE_COOKIE ="active_template";
+    public static final String PUB_SITE ="pub_site";
+
 }
